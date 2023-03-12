@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Hassan
 #### I am a Web developer
-![I am a Web developer](https://www.facebook.com/photo/?fbid=121753260786767&set=a.121753280786765)
-
+![I am a Web developer](https://github.com/HassanMunene/HassanMunene/blob/main/hassan.jpg)
 I'm Hassan from Kenya and a student at KCA university studying Bachelor of science in Information and Technology.
 
 I'm also an ALX student studying Software Engineering.
