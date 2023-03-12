@@ -1,16 +1,18 @@
 ![I am a Web developer](https://github.com/HassanMunene/HassanMunene/blob/main/hassan.jpg)
-### Hi there 👋, Hassan here
+# Hassan here
 #### I am a Web developer
 
-I'm Hassan from Kenya and a student at KCA university studying Bachelor of science in Information and Technology.
+I'm Hassan from Kenya and a student at [KCA](https://www.kcau.ac.ke/) university studying Bachelor of science in Information and Technology.
 
-I'm also an ALX student studying Software Engineering.
+I'm also an [ALX](https://www.alxafrica.com/) student studying Software Engineering.
 
 My target this year is to become a proficient backend developer.
 
-Also Engage in open source so that I can learn more from the community and really also help where I can with my few skills smile
+Also Engage in open source so that I can learn more from the community and really also help where I can with my few skills 😄
 
-Skills: C/ HTML / CSS/JS/PYTHON
+## My current stack
+![HTML badge](
+* :python:
 
 - 🔭 I’m currently working on An airbnb console 
 - 🌱 I’m currently learning Django 
