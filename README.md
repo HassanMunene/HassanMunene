@@ -16,7 +16,7 @@ Also Engage in open source so that I can learn more from the community and reall
 
 - 🔭 I’m currently working on An airbnb console 
 - 🌱 I’m currently learning Django 
-- 📫 How to reach me: awanzihassan@gmail.com 
+- 📫 How to reach me: awanzihassan@gmail.com  +254758492438
 - ⚡ Fun fact: I'm a geek :smile: 
 
 
