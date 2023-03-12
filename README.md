@@ -11,8 +11,11 @@ My target this year is to become a proficient backend developer.
 Also Engage in open source so that I can learn more from the community and really also help where I can with my few skills 😄
 
 ## My current stack
-![C](https://github.com/HassanMunene/HassanMunene/blob/main/c.png)
-* :python:
+![HTML](https://github.com/HassanMunene/HassanMunene/blob/main/HTML1.png)
+![CSS](https://github.com/HassanMunene/HassanMunene/blob/main/CSS1.png)
+![C](https://github.com/HassanMunene/HassanMunene/blob/main/C1.png)
+![Python](https://github.com/HassanMunene/HassanMunene/blob/main/PYTHON1.png)
+![Django](https://github.com/HassanMunene/HassanMunene/blob/main/django1.png)
 
 - 🔭 I’m currently working on An airbnb console 
 - 🌱 I’m currently learning Django 
