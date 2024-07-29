@@ -1,4 +1,5 @@
 # 🌟 Hassan Munene - FrontEnd Developer
-[![image](https://github.com/user-attachments/assets/039ab7b2-4540-4b78-b126-9c3a88c1f57e)](https://github.com/HassanMunene)
+[![email](https://github.com/user-attachments/assets/f23e013f-c317-4f36-8eae-f66a284ba62a)](mailto:awanzihassan6@gmail.com) [![linkedin](https://github.com/user-attachments/assets/79b9f20b-c443-4586-9c03-5f6088c4efb0)](https://www.linkedin.com/in/hassan-munene-41290b237/) [![github](https://github.com/user-attachments/assets/a19c3972-7824-4299-bb9e-53da0a10229b)](https://github.com/HassanMunene)
+
 
 
