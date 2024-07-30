@@ -19,5 +19,14 @@ This blog application that serves as a platform for me to share my knowledge and
 ## 🎖️ Certficate
 ##### ALX Software Engineering | Aug 2022 - Nov 2024
 
+## 📞 My contacts
+##### Email: awanzihassan6@gmail.com
+##### Phone: +254758492438
+##### Location: Nairobi, Kenya
+
+
+Made with ❤️ by Hassan Munene
+
+
 
 
