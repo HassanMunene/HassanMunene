@@ -5,5 +5,5 @@ Hello! I'm **Hassan Munene**, a passionate software engineer with **4+ years** o
 
 
 ## 🌐 **Connect with Me**  
-### [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-munene-41290b237/) 
-### [hassan.co.ke](https://hassan.co.ke)
+##### [LinkedIn](https://www.linkedin.com/in/hassan-munene-41290b237/) 
+##### [hassan.co.ke](https://hassan.co.ke)
