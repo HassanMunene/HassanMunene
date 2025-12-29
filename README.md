@@ -1,4 +1,4 @@
-# 👨‍💻 Hassan Munene  
+# Hassan Munene  
 ### **Software Engineer**  
 
 ## 🌐 **Connect with Me**  
